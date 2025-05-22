@@ -1,3 +1,5 @@
+"use client";
+
 import { DeviceChart } from "@/components/charts/device-chart";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
